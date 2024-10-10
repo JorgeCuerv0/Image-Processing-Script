@@ -25,7 +25,7 @@ pip install pillow
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/yourusername/https://github.com/JorgeCuerv0/Image-Processing-Script
     cd your-repo-name
     ```
 
